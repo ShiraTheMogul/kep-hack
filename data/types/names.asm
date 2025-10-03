@@ -3,7 +3,6 @@ TypeNames:
 
 	dw .Normal
 	dw .Fighting
-	dw .Flying
 	dw .Poison
 	dw .Ground
 	dw .Rock
@@ -16,6 +15,7 @@ REPT UNUSED_TYPES_END - UNUSED_TYPES
 	dw .Normal
 ENDR
 
+	dw .Flying
 	dw .Fire
 	dw .Water
 	dw .Grass

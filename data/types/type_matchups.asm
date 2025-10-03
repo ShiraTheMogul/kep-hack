@@ -34,7 +34,7 @@ TypeEffects:
 	db WATER,        GROUND,       SUPER_EFFECTIVE
 	db ELECTRIC,     GROUND,       NO_EFFECT
 	db ELECTRIC,     FLYING,       SUPER_EFFECTIVE
-	db ELECTRIC,     BIRD,         NOT_VERY_EFFECTIVE
+	db ELECTRIC,     BIRD,         SUPER_EFFECTIVE
 	db GRASS,        GROUND,       SUPER_EFFECTIVE
 	db GRASS,        BUG,          NOT_VERY_EFFECTIVE
 	db GRASS,        POISON,       NOT_VERY_EFFECTIVE
